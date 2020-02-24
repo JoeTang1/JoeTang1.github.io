@@ -65,4 +65,3 @@ docker restart 容器ID/容器名称   重启容器
 
 ```docker rm $(docker ps -a -q)```删除所有的容器
 
-
