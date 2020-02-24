@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  纯洁的微笑
-subtitle: 分享技术，品味人生
-name: 纯洁的微笑 
-email: ityouknow@126.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+title: 奔跑de陀螺 #唐欢的博客
+subtitle: 今天的事，不明天做   #奔跑de陀螺
+name: 奔跑de陀螺 #唐欢的博客
+email: jerrythh@163.com
+description: 本站是奔跑de陀螺的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
+keywords: JoeTang1,唐欢的博客,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: JoeTang1/JoeTang1.github.io
+github_url: https://github.com/JoeTang1
+url: http://www.jerrythh.com
+enforce_ssl: JoeTang1.com
 
 ## Gem
 plugins:
@@ -55,20 +55,19 @@ paginate_path: 'page:num'
 # Navigation. top menu list
 menus:
 
-
   -
-    href: /spring-cloud.html
-    label: SCloud
+    href: /python.html
+    label: Python  
     target: _self
 
   -
     href: /it.html
-    label: 深度
+    label: IT
     target: _self
 
   -
-    href: /money.html
-    label: 挣钱
+    href: /zsxq.html
+    label: 星球
     target: _self   
 
   -
@@ -86,10 +85,7 @@ menus:
     label: 友链
     target: _self
 
-  -
-    href: /about.html
-    label: 关于
-    target: _self
+
 
 # Navigation. main menu list
 navs:
@@ -97,11 +93,6 @@ navs:
   -
     href: /
     label: Home
-
-  -
-    href: /cartoon.html
-    label: 漫画
-    target: _self
 
   -
     href: /spring-boot.html
@@ -118,6 +109,12 @@ navs:
         subLabel: Spring Cloud
 
   -
+    href: /spring-cloud.html
+    label: Spring Cloud
+    target: _self
+
+  -
+    
     href: http://www.justdojava.com
     label: Java
     target: _blank
@@ -133,25 +130,14 @@ navs:
         target: _blank
 
   -
-    
-    href: /python.html
-    label: Python
-    subnav:
-
-      -
-        subHref: /python.html
-        subLabel: Python 教程
-        
-      -
-        subHref: http://www.justdopython.com
-        subLabel: Python 技术
-        target: _blank
-
-  -
     href: /archives.html
     label: Archives
     target: _self
 
+  -
+    href: /about.html
+    label: About
+    target: _self
 
 
 # labels. my blog key words
@@ -159,7 +145,7 @@ labels:
 
   -
     href: /payment.html
-    label: Pay     
+    label: 支付     
     target: _self
 
   -
@@ -187,14 +173,14 @@ labels:
     label: Chat
     target: _blank
 
+  -
+    href: /geektime.html
+    label: 极客
+    target: _blank
+
 
 # selected articles
 classes:
-
-  -
-    href: /cartoon.html
-    name: 不会笑青年
-    describe: 内心沉稳 ，放荡不羁。
 
   -
     href: /life.html
@@ -202,11 +188,14 @@ classes:
     describe: 生活就是故事，故事就是生活
 
   -
-    href: /it.html
-    name: IT行业深度报道
-    describe: IT大佬，互联网知名公司的故事
+    href: /arch.html
+    name: 架构师之路
+    describe: 一个架构师的自我修养
 
-
+  -
+    href: /java.html
+    name: Java 系列文章
+    describe: Java 之根基，Java 程序员必学
 
 
 # ---------------- #
@@ -240,19 +229,21 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: JoeTang1
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: JoeTang1
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: JoeTang1
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
+
+theme: jekyll-theme-minimal

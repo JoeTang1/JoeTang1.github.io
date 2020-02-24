@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 极客技术专栏
-titlebar: geektime
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; &nbsp;&nbsp;极客时间大礼包>&nbsp;&nbsp;>&nbsp;&nbsp;<a href ="http://gk.link/a/103Gb" target="_blank" ><font color="#EB9439">点我直达</font></a>
-menu: geektime
+title: 知识星球
+titlebar: zsxq
+subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp;探索创业、黑客增长、营销策略、创意分享、商业案例等。>&nbsp;&nbsp;>&nbsp;&nbsp;<a href ="https://t.zsxq.com/iYZ3zrR" target="_blank" ><font color="#EB9439">点我直达</font></a>
+menu: zsxq
 css: ['blog-page.css']
-permalink: /geektime
+permalink: /zsxq
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /geektime
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='geektime' %}
+                {% if post.category=='zsxq' or post.keywords contains 'money' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
@@ -44,3 +44,4 @@ permalink: /geektime
 
     });
 </script>
+
