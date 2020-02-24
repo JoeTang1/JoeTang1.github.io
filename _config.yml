@@ -235,14 +235,14 @@ gitment:
     owner: JoeTang1
     repo: blog-comments
     oauth:
-        client_id: 1d37eaa59a107fd3f6af
-        client_secret: fd6c013d243591da31e81a6359f9fde8d613b3ca
+        client_id: c01abb7c6690500b9220
+        client_secret: a8cdd4ee4d02edd1bf6ca11192da4f044b1bf53e
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: JoeTang1
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
-    clientSecret: fd6c013d243591da31e81a6359f9fde8d613b3ca
+    clientSecret: a8cdd4ee4d02edd1bf6ca11192da4f044b1bf53e
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
