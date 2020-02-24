@@ -6,7 +6,7 @@ subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; Re
 menu: Link
 permalink: /link
 ---
-
+<!--
 ## 友情链接
 
 - [人工智能教程博客](http://www.captainbed.net/blog-neo) - 一个幽默的系列课程
@@ -58,3 +58,4 @@ permalink: /link
 - 网站链接：http://www.jerrythh.com  
 - 网站描述：neo 的个人博客，分享技术，分享生活  
 
+-->
