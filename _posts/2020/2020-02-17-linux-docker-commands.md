@@ -6,7 +6,7 @@ tags: [docker]
 ---
 
  
-# **docker服务**  
+## **docker服务**  
  
 ```systemctl start docker``` 启动 
 
@@ -24,7 +24,7 @@ tags: [docker]
 
 ```/bin/systemctl stop docker.service``` 关闭docker 
 
-# **镜像**  
+## **镜像**  
 
 ```docker images```  列出本地所有镜像
 
@@ -51,7 +51,7 @@ image_name：表示镜像的仓库源名称,TAG：
 
 
 
-#  **容器**  
+##  **容器**  
 
 ```docker ps``` 查看当前正在运行的容器  
 
