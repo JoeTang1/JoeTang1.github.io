@@ -6,97 +6,85 @@
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
 <url>
- <loc>http://www..com</loc>
+ <loc>http://www.jerrythh.com</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/cartoon.html</loc>
+ <loc>http://www.jerrythh.com/cartoon.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/it.html</loc>
+ <loc>http://www.jerrythh.com/it.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/zsxq.html</loc>
+ <loc>http://www.jerrythh.com/zsxq.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/life.html</loc>
+ <loc>http://www.jerrythh.com/life.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/arch.html</loc>
+ <loc>http://www.jerrythh.com/arch.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/link.html</loc>
+ <loc>http://www.jerrythh.com/link.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/about.html</loc>
+ <loc>http://www.jerrythh.com/about.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/</loc>
+ <loc>http://www.jerrythh.com/</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/</loc>
+ <loc>http://www.jerrythh.com/</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/spring-boot.html</loc>
+ <loc>http://www.jerrythh.com/spring-boot.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/spring-boot.html</loc>
+ <loc>http://www.jerrythh.com/spring-boot.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/spring-cloud.html</loc>
+ <loc>http://www.jerrythh.com/spring-cloud.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/spring-cloud.html</loc>
- <priority>0.5</priority>
- <lastmod>2019-11-03</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.justdojava.com</loc>
- <priority>0.5</priority>
- <lastmod>2019-11-03</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.Jerrythh.com/java.html</loc>
+ <loc>http://www.jerrythh.com/spring-cloud.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
@@ -108,13 +96,25 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/python.html</loc>
+ <loc>http://www.jerrythh.com/java.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/python.html</loc>
+ <loc>http://www.justdojava.com</loc>
+ <priority>0.5</priority>
+ <lastmod>2019-11-03</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://www.jerrythh.com/python.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2019-11-03</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://www.jerrythh.com/python.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
@@ -126,427 +126,427 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/archives.html</loc>
+ <loc>http://www.jerrythh.com/archives.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/payment.html</loc>
+ <loc>http://www.jerrythh.com/payment.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/fastdfs.html</loc>
+ <loc>http://www.jerrythh.com/fastdfs.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/mongodb.html</loc>
+ <loc>http://www.jerrythh.com/mongodb.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/docker.html</loc>
+ <loc>http://www.jerrythh.com/docker.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/open-source.html</loc>
+ <loc>http://www.jerrythh.com/open-source.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/gitchat.html</loc>
+ <loc>http://www.jerrythh.com/gitchat.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/java/2019/10/30/about-jvm.html</loc>
+ <loc>http://www.jerrythh.com/java/2019/10/30/about-jvm.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/it/2019/10/27/qiubojun.html</loc>
+ <loc>http://www.jerrythh.com/it/2019/10/27/qiubojun.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/cartoon/2019/10/25/twome.html</loc>
+ <loc>http://www.jerrythh.com/cartoon/2019/10/25/twome.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/it/2019/10/24/interview.html</loc>
+ <loc>http://www.jerrythh.com/it/2019/10/24/interview.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/payment/2019/10/23/money-transferred.html</loc>
+ <loc>http://www.jerrythh.com/payment/2019/10/23/money-transferred.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/it/2019/10/22/zalie.html</loc>
+ <loc>http://www.jerrythh.com/it/2019/10/22/zalie.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/cartoon/2019/10/21/heihua.html</loc>
+ <loc>http://www.jerrythh.com/cartoon/2019/10/21/heihua.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/python/2019/10/20/python-calendar-036.html</loc>
+ <loc>http://www.jerrythh.com/python/2019/10/20/python-calendar-036.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/python/2019/10/19/python-pathlib-035.html</loc>
+ <loc>http://www.jerrythh.com/python/2019/10/19/python-pathlib-035.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/python/2019/10/18/python-json&amp;pickle-034.html</loc>
+ <loc>http://www.jerrythh.com/python/2019/10/18/python-json&amp;pickle-034.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/python/2019/10/15/python-enum-033.html</loc>
+ <loc>http://www.jerrythh.com/python/2019/10/15/python-enum-033.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/python/2019/10/13/python-logging-032.html</loc>
+ <loc>http://www.jerrythh.com/python/2019/10/13/python-logging-032.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page2</loc>
+ <loc>http://www.jerrythh.com/page2</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page3</loc>
+ <loc>http://www.jerrythh.com/page3</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page4</loc>
+ <loc>http://www.jerrythh.com/page4</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page5</loc>
+ <loc>http://www.jerrythh.com/page5</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page6</loc>
+ <loc>http://www.jerrythh.com/page6</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page7</loc>
+ <loc>http://www.jerrythh.com/page7</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page8</loc>
+ <loc>http://www.jerrythh.com/page8</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page9</loc>
+ <loc>http://www.jerrythh.com/page9</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page10</loc>
+ <loc>http://www.jerrythh.com/page10</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page11</loc>
+ <loc>http://www.jerrythh.com/page11</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page12</loc>
+ <loc>http://www.jerrythh.com/page12</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page13</loc>
+ <loc>http://www.jerrythh.com/page13</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page14</loc>
+ <loc>http://www.jerrythh.com/page14</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page15</loc>
+ <loc>http://www.jerrythh.com/page15</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page16</loc>
+ <loc>http://www.jerrythh.com/page16</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page17</loc>
+ <loc>http://www.jerrythh.com/page17</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page18</loc>
+ <loc>http://www.jerrythh.com/page18</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page19</loc>
+ <loc>http://www.jerrythh.com/page19</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page20</loc>
+ <loc>http://www.jerrythh.com/page20</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page21</loc>
+ <loc>http://www.jerrythh.com/page21</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page22</loc>
+ <loc>http://www.jerrythh.com/page22</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page23</loc>
+ <loc>http://www.jerrythh.com/page23</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page24</loc>
+ <loc>http://www.jerrythh.com/page24</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page25</loc>
+ <loc>http://www.jerrythh.com/page25</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page26</loc>
+ <loc>http://www.jerrythh.com/page26</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page27</loc>
+ <loc>http://www.jerrythh.com/page27</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/page2</loc>
+ <loc>http://www.jerrythh.com/page2</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/Jerrythh</loc>
+ <loc>https://github.com/jerrythh</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://www.zhihu.com/people/Jerrythh</loc>
+ <loc>https://www.zhihu.com/people/jerrythh</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://weibo.com/Jerrythh</loc>
+ <loc>https://weibo.com/jerrythh</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/life.html</loc>
+ <loc>http://www.jerrythh.com/life.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/it.html</loc>
+ <loc>http://www.jerrythh.com/it.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/arch.html</loc>
+ <loc>http://www.jerrythh.com/arch.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/Jerrythh/spring-boot-examples</loc>
+ <loc>https://github.com/jerrythh/spring-boot-examples</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/Jerrythh/spring-cloud-examples</loc>
+ <loc>https://github.com/jerrythh/spring-cloud-examples</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/Jerrythh/awesome-spring-boot</loc>
+ <loc>https://github.com/jerrythh/awesome-spring-boot</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/Jerrythh/spring-boot-leaning</loc>
+ <loc>https://github.com/jerrythh/spring-boot-leaning</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/Jerrythh/awesome-spring-cloud</loc>
+ <loc>https://github.com/jerrythh/awesome-spring-cloud</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/Jerrythh/diagram</loc>
+ <loc>https://github.com/jerrythh/diagram</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://www.zhihu.com/people/Jerrythh</loc>
+ <loc>https://www.zhihu.com/people/jerrythh</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://weibo.com/Jerrythh</loc>
+ <loc>http://weibo.com/jerrythh</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/Jerrythh</loc>
+ <loc>https://github.com/jerrythh</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/Jerrythh</loc>
+ <loc>https://github.com/jerrythh</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://www.zhihu.com/people/Jerrythh</loc>
+ <loc>https://www.zhihu.com/people/jerrythh</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://weibo.com/Jerrythh</loc>
+ <loc>https://weibo.com/jerrythh</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/payment.html</loc>
+ <loc>http://www.jerrythh.com/payment.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/fastdfs.html</loc>
+ <loc>http://www.jerrythh.com/fastdfs.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/mongodb.html</loc>
+ <loc>http://www.jerrythh.com/mongodb.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/docker.html</loc>
+ <loc>http://www.jerrythh.com/docker.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/open-source.html</loc>
+ <loc>http://www.jerrythh.com/open-source.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/gitchat.html</loc>
+ <loc>http://www.jerrythh.com/gitchat.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.Jerrythh.com/feed.xml</loc>
+ <loc>http://www.jerrythh.com/feed.xml</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
