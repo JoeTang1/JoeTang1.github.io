@@ -235,8 +235,8 @@ gitment:
     owner: JoeTang1
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 1d37eaa59a107fd3f6af
+        client_secret: fd6c013d243591da31e81a6359f9fde8d613b3ca
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: JoeTang1
