@@ -70,11 +70,14 @@
         <script>
         var gitment = new Gitment({
             id: '{{ page.url }}',
-            owner: '{{ site.gitment.owner }}',
-            repo: '{{ site.gitment.repo }}',
+            // owner: '{{ site.gitment.owner }}',
+            owner: 'JoeTang1',
+            // repo: '{{ site.gitment.repo }}',
+            repo: 'blog-comments',
             oauth: {
-                client_id: '{{ site.gitment.oauth.client_id }}',
-                client_secret: '{{ site.gitment.oauth.client_secret }}',
+                // client_id: '{{ site.gitment.oauth.client_id }}',
+                client_id: '1d37eaa59a107fd3f6af',
+                client_secret: 'fd6c013d243591da31e81a6359f9fde8d613b3ca',
             },
         })
         gitment.render('container')
