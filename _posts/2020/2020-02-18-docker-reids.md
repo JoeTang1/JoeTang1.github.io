@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: docker安装redis
