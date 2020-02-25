@@ -6,7 +6,6 @@ tags: [Linux]
 ---
 
 
-
 <font color=red>场景描述：jar包（```eureka-server-1.0.0.jar```）中替换文件```application.properties```的内容</font>
 
 ## 查询需要替换的文件在jar中的位置
@@ -32,10 +31,10 @@ jar xvf eureka-server-1.0.0.jar BOOT-INF/classes/application-pro.properties
 )
   BOOT-INF中即为解压的文件
   
-  ## 进入解压的目录修改文件内容
+## 进入解压的目录修改文件内容
 ![](https://note.youdao.com/yws/public/resource/23c043803be080a153110dced7dbfc97/xmlnote/D8F76798BBA74481BE6EDB9128FA8FE1/4113)  
 
-# 将替换后的目录打包进jar文件 实现替换
+## 将替换后的目录打包进jar文件 实现替换
 >jar uvf ***.jar {filePath}
 ```
 jar uvf eureka-server-1.0.0.jar BOOT-INF/classes/application.properties
