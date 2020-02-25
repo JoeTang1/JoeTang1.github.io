@@ -8,7 +8,7 @@ tags: [docker]
 
 以上场景在CentOS 7.6, Docker安装 redis
 
-##docker安装redis
+## docker安装redis
 
 ### 查询镜像
 
