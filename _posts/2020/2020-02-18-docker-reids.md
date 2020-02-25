@@ -25,7 +25,6 @@ docker search redis
 docker pull redis
 ```
 
-
 ### 创建并运行redis容器
 
 > -d   后台运行
