@@ -26,7 +26,6 @@ docker pull redis
 ```
 
 ### 创建并运行redis容器
-
 > -d   后台运行
   -v   将主机目录挂载到容器的目录
   –name   实例运行后的名字 redis-dev
