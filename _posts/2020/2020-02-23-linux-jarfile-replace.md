@@ -10,7 +10,6 @@ tags: [Linux]
 
 ## 查询需要替换的文件在jar中的位置
 > jar tvf *****.jar | grep {fileName}
->
 ```
 jar tvf eureka-server-1.0.0.jar | grep application.properties
 ```
@@ -44,7 +43,7 @@ jar xvf eureka-server-1.0.0.jar BOOT-INF/classes/application-pro.properties
 jar uvf eureka-server-1.0.0.jar BOOT-INF/classes/application.properties
 ```
 
-![](https://gitee.com/joe-Tang/blog-images/raw/master/e587ce803c0bd5186301c28a0fc43c4.png) 
+![](https://note.youdao.com/yws/public/resource/23c043803be080a153110dced7dbfc97/xmlnote/4379F2ABFE124ED988292A0B126BF3AE/4115) 
 
 参考：
 <https://blog.csdn.net/luoww1/article/details/90374770>
