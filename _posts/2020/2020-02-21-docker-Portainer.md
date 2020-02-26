@@ -18,7 +18,7 @@ tags: [docker]
 docker search portainer
 ```
 
-![](https://note.youdao.com/yws/public/resource/54f82a270f4a06b416197608e3ed0e73/xmlnote/5F003790AE9D49469DB09C8F41D06B88/4405)
+![](https://raw.githubusercontent.com/JoeTang1/blog-images/master/docker/dockerportainer/1.jpg?token=AHUQGVQV2DNAU2L3Y23BSTK6KYGTA)
 
 上图就是查询出来的有下载量的portainer镜像，我们下载第一个镜像：portainer/portainer。
 
