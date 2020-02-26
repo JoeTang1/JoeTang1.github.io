@@ -18,7 +18,7 @@ tags: [docker]
 docker search portainer
 ```
 
-![](https://raw.githubusercontent.com/JoeTang1/blog-images/master/docker/dockerportainer/1.jpg?token=AHUQGVQV2DNAU2L3Y23BSTK6KYGTA)
+![](http://jerrythh.com/assets/images/2020/docker/dockerportainer/1.png)
 
 上图就是查询出来的有下载量的portainer镜像，我们下载第一个镜像：portainer/portainer。
 
@@ -44,12 +44,12 @@ docker run -d -p 9000:9000 --name portainer --restart always -v /var/run/docker.
 访问方式：http://IP:9000
    - 首次登陆需要注册用户，给admin用户设置密码：XXX ,设置完密码，点击Create user；
    - 单机版这里选择local即可，选择完毕，点击Connect即可连接到本地docker：
-![](https://note.youdao.com/yws/public/resource/54f82a270f4a06b416197608e3ed0e73/xmlnote/091F2710684B4202834C2DBF5FFD4E5B/4410)
+![](http://jerrythh.com/assets/images/2020/docker/dockerportainer/2.png)
 
 <font color="red">注意：该页面上有提示需要挂载本地 /var/run/docker.socker与容器内的/var/run/docker.socker连接。因此，在启动时必须指定该挂载文件。</font>
 
 容器列表：
-![](https://note.youdao.com/yws/public/resource/54f82a270f4a06b416197608e3ed0e73/xmlnote/BB580AA79F0B457795B954579D2C0287/4412)
+![](http://jerrythh.com/assets/images/2020/docker/dockerportainer/3.png)
 
 Portainer的一些功能，可以安装上进行了解学习。
 
