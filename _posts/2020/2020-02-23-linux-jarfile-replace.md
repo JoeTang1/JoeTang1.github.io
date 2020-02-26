@@ -44,7 +44,7 @@ jar xvf eureka-server-1.0.0.jar BOOT-INF/classes/application-pro.properties
 jar uvf eureka-server-1.0.0.jar BOOT-INF/classes/application.properties
 ```
 
-![](https://note.youdao.com/yws/public/resource/23c043803be080a153110dced7dbfc97/xmlnote/4379F2ABFE124ED988292A0B126BF3AE/4115) 
+![](https://raw.githubusercontent.com/JoeTang1/blog-images/master/image.png?token=AHUQGVSOJWXVFQGME4UHH526KXHLA) 
 
 参考：
 <https://blog.csdn.net/luoww1/article/details/90374770>
