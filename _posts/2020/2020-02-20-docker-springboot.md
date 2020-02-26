@@ -27,7 +27,7 @@ tags: [docker]
 
 - 编写的Dockerfile文件和eureka-server-1.0.0.jar放在同级目录下
 
-![](https://note.youdao.com/yws/public/resource/f11160e4a24a4d8a03ce16ac21754011/xmlnote/F4C0B891B4E841BE8E3EDBD8F0570141/4370)
+![](http://jerrythh.com/assets/images/2020/docker/dockerfile/1.png)
     
 - Dockerfile配置文件的内容
 
@@ -57,7 +57,7 @@ ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/eureka-ser
 > - -t 指定新镜像名eureka-server
 > - .  表示Dockfile在当前路径
 
-![](https://note.youdao.com/yws/public/resource/f11160e4a24a4d8a03ce16ac21754011/xmlnote/E217B4715CDC463FB60682837C942DD0/4375)
+![](http://jerrythh.com/assets/images/2020/docker/dockerfile/2.png)
 创建完镜像后，此时Docker中已经存在eureka-server镜像。
 
    3、**运行刚才构建成的镜像**
@@ -70,7 +70,7 @@ docker run -d -p 1001:1001 --name eureka-server eureka-server
 >  - -p jar包用的1001端口，主机映射1001端口，容器端口为1001
 >  - --name:指定容器名称 
 
-![](https://note.youdao.com/yws/public/resource/f11160e4a24a4d8a03ce16ac21754011/xmlnote/6EE2B393DC684013AB2A1FE0DC6F3A66/4378)
+![](http://jerrythh.com/assets/images/2020/docker/dockerfile/3.png)
 
 通过```docker ps```查看此时容器已经运行
 
@@ -78,7 +78,7 @@ docker run -d -p 1001:1001 --name eureka-server eureka-server
 
 > http:ip + 1001 eureka成功启动
 
-![](https://note.youdao.com/yws/public/resource/f11160e4a24a4d8a03ce16ac21754011/xmlnote/7533E6338363440E9DE5F962E3A5103E/4382)
+![](http://jerrythh.com/assets/images/2020/docker/dockerfile/4.png)
 
 ## 参考
 <https://www.cnblogs.com/miller-zou/p/11111756.html>
