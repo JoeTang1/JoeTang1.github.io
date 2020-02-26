@@ -29,8 +29,7 @@ jar xvf eureka-server-1.0.0.jar BOOT-INF/classes/application-pro.properties
 
 ![](https://note.youdao.com/yws/public/resource/23c043803be080a153110dced7dbfc97/xmlnote/E753489A632846FAAF19BA3C10199F5D/4116)
 
-![](https://note.youdao.com/yws/public/resource/23c043803be080a153110dced7dbfc97/xmlnote/A06DF47992EF416D8A52201B106CF69F/4112
-)
+![](https://note.youdao.com/yws/public/resource/23c043803be080a153110dced7dbfc97/xmlnote/A06DF47992EF416D8A52201B106CF69F/4112)
   BOOT-INF中即为解压的文件
   
 ## 进入解压的目录修改文件内容
