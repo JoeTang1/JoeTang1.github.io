@@ -55,7 +55,7 @@ image_name：表示镜像的仓库源名称,TAG：
 
 ```docker ps``` 查看当前正在运行的容器  
 
-```docker ps -a``` 查看当前正在运行的容器
+```docker ps -a``` 查看所有容器
 ```
 docker start 容器ID/容器名称     启动容器
 docker restart 容器ID/容器名称   重启容器
