@@ -40,8 +40,8 @@ image_name：表示镜像的仓库源名称,TAG：
 ``` 
 <font color="red">强制删除 如果镜像有容器在运行  那么就需要强制删除 增加 -f 参数</font> 
 
-    docker rmi 镜像名称/镜像ID
-    docker rmi -f 镜像名称/镜像ID
+    docker rmi 镜像ID
+    docker rmi -f 镜像ID
     
 <font color="red">删除全部的images； 可通过 -f 参数强制删除</font>
 
