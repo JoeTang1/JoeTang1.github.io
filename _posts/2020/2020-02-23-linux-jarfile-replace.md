@@ -32,14 +32,14 @@ jar xvf eureka-server-1.0.0.jar BOOT-INF/classes/application-pro.properties
   BOOT-INF中即为解压的文件
   
 ## 进入解压的目录修改文件内容
-![](https://note.youdao.com/yws/public/resource/23c043803be080a153110dced7dbfc97/xmlnote/D8F76798BBA74481BE6EDB9128FA8FE1/4113)  
+![](http://47.102.129.242:8088/T.png)  
 
 ## 将替换后的目录打包进jar文件 实现替换
 >jar uvf ***.jar {filePath}
 ```
 jar uvf eureka-server-1.0.0.jar BOOT-INF/classes/application.properties
 ```
-![](https://note.youdao.com/yws/public/resource/23c043803be080a153110dced7dbfc97/xmlnote/4379F2ABFE124ED988292A0B126BF3AE/4115) 
+![dd](http://47.102.129.242:8088/T.png) 
 
 参考：
 <https://blog.csdn.net/luoww1/article/details/90374770>
