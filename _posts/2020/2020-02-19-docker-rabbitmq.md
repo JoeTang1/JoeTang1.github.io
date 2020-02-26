@@ -48,4 +48,4 @@ http://ip:15672 访问
 
 以下情况访问即为成功安装
 
-![](https://note.youdao.com/yws/public/resource/c69550117149dc587daddc4bb4d7211e/xmlnote/57E6455212F14F239198DC6F6336CDC5/4364)
+![](http://jerrythh.com/assets/images/2020/docker/dockerrabbitmq/1.png)

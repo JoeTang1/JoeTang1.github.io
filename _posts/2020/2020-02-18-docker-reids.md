@@ -41,8 +41,8 @@ docker run -d  -v /docker/redis/data:/data --name redis-dev -p 6379:6379 redis r
 
 > 安装完还需要在云服务器ECS安全组开放7693端口才可访问
 
-![](https://note.youdao.com/yws/public/resource/c69550117149dc587daddc4bb4d7211e/xmlnote/D8D64936275940B0B64ED7B5BDA50792/4358)
+![](http://jerrythh.com/assets/images/2020/docker/dockerredis/1.png)
 
 > name：随意填写 host：填写自己的ip  ，以下情况成功连接
 
-![](https://note.youdao.com/yws/public/resource/c69550117149dc587daddc4bb4d7211e/xmlnote/16436ABB666E482C855065C631D59FAE/4360)
+![](http://jerrythh.com/assets/images/2020/docker/dockerredis/2.png)
