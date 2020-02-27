@@ -2,7 +2,7 @@
 layout: page
 title: 前端
 titlebar: fore-end
-subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp;前端知识记录
+subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp;js,jquery,html,jsp...
 menu: fore-end
 css: ['blog-page.css']
 permalink: /fore-end
