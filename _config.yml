@@ -169,6 +169,11 @@ labels:
     target: _blank
 
   -
+    href: /fore-end.html
+    label: Code
+    target: _blank
+
+  -
     href: /gitchat.html
     label: Chat
     target: _blank
