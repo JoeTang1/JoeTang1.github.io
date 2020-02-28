@@ -63,10 +63,9 @@ menus:
     label: IT
     target: _self
 
-    -
-      href: /zsxq.html
-      label: 星球
-      target: _self
+  - href: /zsxq.html
+    label: 星球
+    target: _self
 
   - href: /life.html
     label: 故事
