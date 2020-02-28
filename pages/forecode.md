@@ -1,13 +1,11 @@
 ---
 layout: page
 title: 前端
-titlebar: fore-end
+titlebar: forecode
 subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp;js,jquery,html,jsp...
-menu: fore-end
+menu: forecode
 css: ['blog-page.css']
-permalink: /fore-end
-keywords: js,jquery,html,jsp...
-
+permalink: /forecode
 ---
 
 <div class="row">
