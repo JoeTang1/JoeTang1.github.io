@@ -154,7 +154,7 @@ labels:
     target: _blank
 
   - href: /linux.html
-    label: Liunx
+    label: Linux
     target: _blank
 
   - href: /db.html
