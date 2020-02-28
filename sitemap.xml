@@ -534,12 +534,6 @@
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://www.jerrythh.com/forecode.html</loc>
-        <priority>0.5</priority>
-        <lastmod>2019-11-03</lastmod>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
         <loc>http://www.jerrythh.com/mongodb.html</loc>
         <priority>0.5</priority>
         <lastmod>2019-11-03</lastmod>
