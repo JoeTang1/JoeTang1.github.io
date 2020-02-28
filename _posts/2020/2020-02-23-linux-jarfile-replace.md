@@ -1,8 +1,8 @@
 ---
 layout: post
 title: linux_直接在linux里面替换jar包里的某个文件
-category: Linux
-tags: [Linux]
+category: linux
+tags: [linux]
 ---
 
 
