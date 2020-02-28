@@ -156,13 +156,13 @@
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://www.jerrythh.com/mongodb.html</loc>
+        <loc>http://www.jerrythh.com/redis.html</loc>
         <priority>0.5</priority>
         <lastmod>2019-11-03</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://www.jerrythh.com/docker.html</loc>
+        <loc>http://www.jerrythh.com/git.html</loc>
         <priority>0.5</priority>
         <lastmod>2019-11-03</lastmod>
         <changefreq>weekly</changefreq>

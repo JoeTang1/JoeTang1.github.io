@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 前端
+title: Redis
 titlebar: forecode
-subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp;HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, Boostrap
-menu: forecode
+subtitle: <span class="mega-octicon octicon-keyboard"></span>o&nbsp;&nbsp; Redis 系列教程
+menu: redis
 css: ['blog-page.css']
-permalink: /forecode
+permalink: /redis
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /forecode
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='forecode' or post.keywords contains 'forecode' %}
+                {% if post.category=='redis' or post.keywords contains 'redis' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
