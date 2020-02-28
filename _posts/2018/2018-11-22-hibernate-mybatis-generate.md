@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 在Idea中连接数据库并生成实体类（mybatis逆向生成实体类）
-category: arch
+category: db
 excerpt: hibernate-mybatis生成实体
+keywords: mybatis,hibernate,idea
 ---
 
 ## 连接数据库

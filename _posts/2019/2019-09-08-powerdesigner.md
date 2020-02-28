@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PowerDesigner最基础的使用方法入门学习
-category: arch
+category: db
 excerpt: PowerDesigner使用总结
 ---
 

@@ -153,6 +153,14 @@ labels:
     label: 前端
     target: _blank
 
+  - href: /linux.html
+    label: 前端
+    target: _blank
+
+  - href: /db.html
+    label: DB
+    target: _blank
+
   - href: /gitchat.html
     label: Chat
     target: _blank

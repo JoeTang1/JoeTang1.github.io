@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Springboot 日志管理配置logback-spring.xml
-category: it
-excerpt: 日志
+category: springboot
+excerpt: logback-spring日志
 ---
 
 ## 几种常见的日志
