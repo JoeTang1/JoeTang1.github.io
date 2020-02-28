@@ -6,6 +6,7 @@ subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp;js,jque
 menu: fore-end
 css: ['blog-page.css']
 permalink: /fore-end
+keywords: js,jquery,html,jsp...
 ---
 
 
