@@ -85,5 +85,3 @@ function loadData(start, length) {
     });
 }
 ```
-
-![](http://img.jerrythh.com/2020/03/joe.jpg)
